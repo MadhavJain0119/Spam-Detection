@@ -23,8 +23,8 @@ Project Structure
 
 ```bash
 
-git clone https://github.com/your-username/SMS-Spam-Detection.git
-cd SMS-Spam-Detection
+git clone https://github.com/MadhavJain0119/Spam-Detection.git
+cd Spam-Detection
 ```
 
 2. Install the required dependencies:
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## Usage
 
 - Ensure you have installed all the dependencies.
-- Run the main.py script to launch the user interface.
+- Run the SMS-spam-detection.ipynb script to launch the user interface.
 - Use the interface to enter a new SMS message for spam detection.
 - The model will predict whether the message is "spam" or "ham" and display the result.
 
